@@ -69,3 +69,5 @@ You can follow us on Twitter: http://twitter.com/metricool/
 * Tested 6.7
 = 1.24 =
 * Tested 6.8
+= 1.25 =
+* Tested 6.9

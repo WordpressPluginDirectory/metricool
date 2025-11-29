@@ -2,9 +2,9 @@
 	/**
 	* Plugin Name: Metricool
 	* Plugin URI: https://metricool.com/
-	* Version: 1.24
+	* Version: 1.25
 	* Author: Metricool
-	* Author URI: http://www.metricool.com/
+	* Author URI: https://www.metricool.com/
 	* Description: Allows you to track your users and readers using metricool.com
 	* License: GPL2
 	*/
